@@ -1,0 +1,30 @@
+ul {
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li a{
+    text-decoration: none;
+    font-family:arial;
+}
+div.logo{
+  padding-top:109px;
+}
+input{
+  height:20px;
+
+}
+div.input{
+    padding-bottom: 109px;
+
+}
+div.bot{
+   background-color: grey;
+}
+li{
+  float:right;
+  display: block;
+  padding: 8px;
+}
